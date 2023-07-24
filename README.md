@@ -1,3 +1,14 @@
+# Gover-Dex
+A decentralized application for buying and selling crypto currencies with cash, as well as sending, and receiving crypto-currencies over the blockchain.
+
+Link: https://godex-49hg.onrender.com/app
+
+# Smart Contracts
+All smart contracts for this project are open for use and can be found in the link below: 
+
+Link: https://github.com/peterspace/GoDex-smart-contracts
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
